@@ -23,7 +23,7 @@ from langchain_core.runnables import Runnable, RunnableConfig
 from langchain_core.tools import BaseTool
 from langchain_openai import ChatOpenAI
 from openai import ContentFilterFinishReasonError, LengthFinishReasonError
-from pydantic import BaseModel
+from pydantic import BaseModel, ValidationError
 
 from .configuracion import OPENROUTER_BASE_URL, PRECIOS, RAZONAMIENTO_OBLIGATORIO, Esfuerzo, api_key
 
@@ -86,8 +86,10 @@ async def invocar_estructurado[T: BaseModel](llm: Runnable, mensajes: list[BaseM
     """
     try:
         r = await llm.ainvoke(mensajes, config)
-    except (LengthFinishReasonError, ContentFilterFinishReasonError) as e:
-        return None, type(e).__name__
+    except (LengthFinishReasonError, ContentFilterFinishReasonError, ValidationError) as e:
+        # Algunos proveedores devuelven el JSON truncado sin marcarlo como "length":
+        # el SDK lo valida y lanza ValidationError en lugar de llenar parsing_error.
+        return None, f"{type(e).__name__}: {str(e)[:80]}"
     return r["parsed"], "" if r["parsed"] is not None else repr(r["parsing_error"])[:120]
 
 

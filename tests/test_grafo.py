@@ -44,6 +44,13 @@ async def test_router_invalido_degrada_a_ruta_compleja(escenario):
     assert any("router" in i for i in salida["incidentes"])
 
 
+async def test_json_truncado_del_critico_degrada_sin_fallar(escenario):
+    escenario.ruta, escenario.critico_json_truncado = "compleja", True
+    salida = await construir_grafo().ainvoke(PREGUNTA, context=Contexto())
+    assert salida["respuesta"]  # la tarea no falla: se entrega el borrador
+    assert any("critico" in i and "ValidationError" in i for i in salida["incidentes"])
+
+
 async def test_cita_invalida_nunca_se_aprueba(escenario):
     escenario.ruta, escenario.cita_invalida = "compleja", True
     salida = await construir_grafo().ainvoke(PREGUNTA, context=Contexto(max_rondas_critico=2))

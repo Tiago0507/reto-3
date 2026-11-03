@@ -32,4 +32,5 @@ class Evaluacion(BaseModel):
 
     aprobado: bool
     puntaje: int = Field(ge=1, le=5, description="1 = inaceptable, 5 = excelente.")
-    comentarios: str = Field(description="Qué corregir, concreto y accionable. Vacío si se aprueba.")
+    comentarios: str = Field(description="Qué corregir, concreto y accionable, en máximo 80 palabras. "
+                                         "Vacío si se aprueba.")

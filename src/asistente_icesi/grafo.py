@@ -154,7 +154,7 @@ async def criticar(state: Estado, runtime: Runtime[Contexto]) -> Command[Literal
     v = state["verificacion"]
     entrada = (f"{_contexto_notas(state)}\n\nRespuesta propuesta:\n{state['borrador']}\n\n"
                f"Verificador automático: {describir(v)}")
-    llm = crear_llm_estructurado(ctx.modelo_critico, "critico", Evaluacion, max_tokens=400,
+    llm = crear_llm_estructurado(ctx.modelo_critico, "critico", Evaluacion, max_tokens=700,
                                  razonamiento=ctx.razonamiento)
     ev, error = await invocar_estructurado(llm, [SystemMessage(prompts.CRITICO), HumanMessage(entrada)])
     rondas = state.get("rondas", 0) + 1

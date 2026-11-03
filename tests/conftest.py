@@ -28,6 +28,7 @@ class Escenario:
     router_invalido: bool = False
     rechazos_critico: int = 0  # cuántas veces rechaza antes de aprobar
     cita_invalida: bool = False
+    critico_json_truncado: bool = False
     llamadas: list[str] = field(default_factory=list)
 
 
@@ -61,6 +62,8 @@ class ChatFalso(BaseChatModel):
                                       "límite de cancelaciones"])
             elif schema is Evaluacion:
                 e.llamadas.append("critico")
+                if e.critico_json_truncado:  # así falla el SDK con un JSON cortado
+                    Evaluacion.model_validate_json('{"aprobado": false, "comentarios": "Cita')
                 aprobado = e.rechazos_critico <= 0
                 e.rechazos_critico -= 1
                 obj = Evaluacion(aprobado=aprobado, puntaje=5 if aprobado else 2,
