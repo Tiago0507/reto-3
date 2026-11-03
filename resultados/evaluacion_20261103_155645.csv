@@ -1,0 +1,506 @@
+config,pregunta,ruta,exito,error,latencia_s,costo_usd,llamadas,tokens,pct_coordinacion,pct_consultas_repetidas,fidelidad_citas,recall_articulos,rondas,incidentes,cobertura,fidelidad,claridad,calidad,respuesta
+A · agente único,¿Hasta qué semana puedo cancelar una materia y en qué casos me devuelven dinero?,simple,True,,2.66,0.001353876,2,4053,0.0,12.5,0.667,0.667,0,0,0.75,3,4,0.688,"**Cancelación de una materia:** puedes cancelarla desde la tercera semana y hasta finalizar la semana 12 del semestre, directamente en el sistema digital, con aprobación del director de programa [Art. 53]. Si cancelas más de una materia en ese período, necesitas autorización previa del director [Art. 53].
+
+**Devolución de dinero:** en ese período (semanas 3 a 12) **no hay reintegro alguno** y se causan derechos fijados por resolución de Rectoría [Art. 53]. Solo hay devolución de un porcentaje si cancelas matrícula o materias durante las **dos primeras semanas**, ante Admisiones y Registro [Art. 50]; el porcentaje lo fija Rectoría por resolución [Art. 50]. Pasada la segunda semana, la cancelación de matrícula se solicita por escrito al Decano y **no da lugar a devolución** [Art. 51].
+
+**Excepciones:** materias de más de 16 semanas, hasta el último día hábil de la semana equivalente a su duración menos 4 [Art. 53, Par. 1]. En verano, semanas 2 a 5 requieren autorización del director y tampoco generan reintegro [Art. 53, Par. 2]; en la primera semana de verano el trámite no tiene costo y hay devolución parcial [Art. 50, Par.]. No se puede cancelar si hubo fraude en esa materia [Art. 53, Par. 3]."
+A · agente único,¿Con qué promedio entro en prueba académica?,simple,True,,2.05,0.00022552200000000003,2,3044,0.0,0.0,1.0,1.0,0,0,1.0,4,4,0.9,"**Ingresas a prueba académica por resultados si tu promedio es inferior a 3,3 al cabo de tu segundo semestre de permanencia, o inferior a 3,4 en los semestres siguientes** [Art. 67a]. La prueba queda vigente durante todo el semestre siguiente [Art. 67a].
+
+Condiciones y excepciones:
+- La prueba académica es la condición en la que ingresas cuando tu rendimiento en un período se considera deficiente; implica organizar tu matrícula con el Director del Programa para alcanzar un nivel académico aceptable [Art. 66].
+- También existe la prueba académica por readmisión: ingresas a ella si eres readmitido tras haber sido retirado por bajo rendimiento o por haber quedado en prueba académica en tu último período [Art. 67b].
+- Si estando en prueba académica no alcanzas el promedio exigido en el literal a) del Art. 67, quedas retirado de la Universidad [Art. 68d].
+
+Nota: el reglamento no fija un promedio distinto para ""entrar"" en prueba académica por primera vez más allá de los umbrales citados."
+A · agente único,"Quedé en prueba académica, ¿qué consecuencias tiene para mi siguiente semestre?",simple,True,,3.28,0.00096618,2,4124,0.0,25.0,1.0,0.75,0,0,0.75,3,4,0.688,"**Estar en prueba académica significa que el semestre siguiente debes organizar tu matrícula con el Director de tu Programa, con el objetivo de alcanzar un nivel académico aceptable [Art. 66].**
+
+Condiciones y consecuencias:
+
+- **Vigencia:** la prueba académica por resultados rige todo el semestre siguiente [Art. 67a].
+- **Promedio exigido:** debes superar el promedio que exige el Art. 67a (3,3 si es tu segundo semestre de permanencia; 3,4 en los semestres siguientes) [Art. 67a].
+- **Riesgo de retiro:** si estando en prueba académica no alcanzas ese promedio, quedas retirado de la Universidad [Art. 68d].
+- **También hay retiro** si ingresas en prueba académica y a la vez recibes una sanción disciplinaria de las del Art. 97 [Art. 68e].
+- **Adiciones:** si fuiste readmitido en prueba académica, necesitas visto bueno del Director del Programa para adicionar materias [Art. 55].
+
+Nota: el reglamento no detalla otras consecuencias (p. ej. límites de carga) más allá de lo anterior; para casos particulares, la instancia es el Director de tu Programa [Art. 66]."
+A · agente único,¿Cuántas faltas de asistencia puedo tener antes de perder una materia?,simple,True,,3.17,0.0009599267999999999,2,4280,0.0,12.5,0.5,1.0,0,0,1.0,4,4,0.9,"**Pierdes la materia si asistes a menos del 80% de las horas de la materia** [Art. 70, Parágrafo 2º]. Es decir, puedes faltar hasta un 20% de las horas totales; el número exacto de faltas depende de las horas de cada materia.
+
+Condiciones:
+- La norma solo se aplica si el profesor lleva registro de asistencia **por escrito** y ese registro es **conocido por los estudiantes** [Art. 70, Parágrafo 2º].
+- La consecuencia es calificación de ""No aprobado"", sin valor numérico [Art. 70, Parágrafo 2º].
+- Ten en cuenta que una nota inferior a 3,0 también reprueba la materia [Art. 70].
+
+El reglamento no fija un número de faltas ni un porcentaje distinto al 80% de asistencia, así que cualquier caso particular debes consultarlo con el profesor o la unidad académica que ofrece el curso."
+A · agente único,¿Qué promedio necesito para graduarme con honores?,simple,True,,1.54,0.0009170700000000001,2,4081,0.0,25.0,1.0,1.0,0,0,1.0,4,5,0.938,"**Depende del nivel de honor que busques** [Art. 83]:
+
+- **Cum laude:** promedio igual o superior a 4,3 e inferior a 4,5 [Art. 83].
+- **Magna cum laude:** promedio igual o superior a 4,5 e inferior a 4,8 [Art. 83].
+- **Summa cum laude:** promedio igual o mayor a 4,8 [Art. 83].
+
+**Condiciones para ser candidato** [Art. 83]: haber cursado en la Universidad al menos el 75% de los créditos del plan de estudios, cumplir los reglamentos y no haber sido sancionado disciplinariamente.
+
+Si cursas dos programas simultáneamente, el promedio de cada programa se tiene en cuenta para los grados con honores [Art. 33, literal e].
+
+Nota: esto es distinto de la Lista de Honor, que solo exige promedio de 4,0 o más y al menos 15 créditos [Art. 89]."
+A · agente único,"No estoy de acuerdo con la nota de un parcial, ¿cómo y en qué plazo reclamo?",simple,True,,1.98,0.00035983,2,4245,0.0,12.5,1.0,1.0,0,0,1.0,4,5,0.938,"**Respuesta:** Debes presentar el reclamo primero al profesor de la materia, por escrito y de manera personal o al correo electrónico que él haya reportado [Art. 77]. El plazo es dentro de los **tres días hábiles** siguientes a la comunicación de la calificación [Art. 77].
+
+**Condiciones y excepciones:**
+- Si no quedas satisfecho con la respuesta del profesor, debes presentar el reclamo ante el Director de tu Programa, quien lo gestionará ante el Jefe del Departamento o Director de Escuela, según corresponda [Art. 77].
+- Si el Jefe del Departamento estima procedente la reclamación, designará **dos nuevos calificadores**, que evaluarán en los **cinco días hábiles** siguientes con los mismos criterios aplicados a los demás exámenes del curso [Art. 77].
+- La calificación del examen será el **promedio** de las notas de los segundos calificadores, y deberá entregarse dentro de los **diez días hábiles** siguientes a la comunicación de la primera calificación [Art. 77].
+
+Nota: el reglamento no establece costo alguno por este trámite."
+A · agente único,¿En qué casos me retiran de la universidad por rendimiento académico?,simple,True,,2.17,0.000321012,2,4165,0.0,25.0,0.0,1.0,0,0,0.75,3,4,0.688,"**Te retiran de la Universidad por rendimiento académico en estos casos [Art. 68]:**
+
+- Si pierdes un número de materias igual o superior al del cuadro: cursando 1 y pierdes 1; cursando 2 y pierdes 2; cursando 3 o 4 y pierdes 2 o más; cursando 5 o más y pierdes 3 o más [Art. 68, lit. a].
+- Si pierdes una materia en tercera repetición [Art. 68, lit. b].
+- Si teniendo en el semestre un promedio total inferior a 3,4 pierdes una materia en segunda repetición [Art. 68, lit. c].
+- Si estando en prueba académica no alcanzas el promedio exigido [Art. 68, lit. d], es decir, 3,3 al cabo del segundo semestre de permanencia y 3,4 en los semestres siguientes [Art. 67, lit. a].
+- Si ingresas en prueba académica y simultáneamente te haces acreedor a una sanción disciplinaria de las del Artículo 97 [Art. 68, lit. e].
+- Si incumples los plazos para cancelar tus obligaciones financieras [Art. 68, lit. f].
+
+Si eres retirado por bajo rendimiento, puedes solicitar readmisión máximo dos veces [Art. 12, Parágrafo 3º]."
+A · agente único,"Me retiraron por bajo rendimiento académico, ¿puedo volver a la universidad y con qué condiciones?",simple,True,,2.87,0.0005712660000000001,3,8071,0.0,10.0,0.0,1.0,0,0,1.0,4,4,0.9,"**Sí, puedes volver.** Debes presentar solicitud escrita de readmisión ante la oficina de Admisiones y Registro; el Comité de Admisiones decide cada caso [Art. 12, Par. 2] [Art. 9].
+
+**Condiciones:**
+- No haber estado desvinculado académicamente más de cinco años [Art. 12].
+- Solo puedes ser readmitido **máximo dos veces** tras un retiro por bajo rendimiento [Art. 12, Par. 3].
+- Ingresas al plan de estudios vigente al momento de la solicitud, conservando tu historial académico y con las equivalencias del [Art. 23] [Art. 12, Par. 1].
+- Podrás matricular hasta el **75% de los créditos** del semestre con más créditos del plan, priorizando materias por repetir y pendientes; la matrícula la hace el Director del Programa, quien puede aprobar excepciones a ese límite [Art. 12, Par. 3].
+- Al ser readmitido entras en **prueba académica por readmisión**, vigente durante el semestre siguiente [Art. 67, b]; deberás organizar tu matrícula con el Director del Programa [Art. 66].
+
+Si te readmiten en un programa distinto, eliges conservar o no tu historial [Art. 12, Par. 4]. El reglamento no fija plazos ni costos del trámite: consúltalos en Admisiones y Registro."
+A · agente único,¿Puedo estudiar dos carreras al mismo tiempo en Icesi? ¿Qué requisitos hay y cuánto pago?,simple,True,,2.59,0.00031851199999999996,2,3614,0.0,12.5,1.0,0.333,0,0,0.5,2,4,0.475,"Sí, es posible, pero son dos figuras distintas: **simultaneidad** de dos programas en Icesi y **doble titulación** con otra universidad.
+
+**Simultaneidad (dos carreras en Icesi):**
+- Desde el ingreso: debes tener en las pruebas de estado un puntaje igual o superior al mínimo que fije el Comité de Admisiones [Art. 32].
+- Si ya cursaste uno o más semestres: no puedes tener sanción disciplinaria ni estar en prueba académica en el semestre en que tramitas la solicitud [Art. 32].
+- La solicitud se hace por Banner al cierre del semestre anterior al inicio de la simultaneidad; el Decano y el Director de programa deciden y te comunican por correo dentro de los quince días hábiles siguientes al fin del semestre [Art. 32, parágrafo].
+
+**Doble titulación (con otra universidad):** requiere convenio bilateral avalado por el Consejo Académico [Art. 35], haber aprobado al menos el 50% de los créditos de tu plan de estudios y ser postulado por tu institución de origen vía Relaciones Internacionales, con seis meses de anticipación [Art. 36].
+
+**Sobre el pago:** el reglamento no fija un costo de simultaneidad. En doble titulación, las obligaciones financieras se rigen por cada convenio [Art. 41]. No hay cifra en las fuentes consultadas; consulta a Apoyo Financiero."
+A · agente único,"Quiero cancelar todo el semestre, ¿cómo lo hago y me devuelven la plata?",simple,True,,1.85,0.000641872,2,3890,0.0,12.5,1.0,0.5,0,0,1.0,4,4,0.9,"**Cómo hacerlo:** la solicitud se radica por el autoservicio Banner y termina con la cancelación e inactivación en el programa [Guía 1].
+
+**Devolución de dinero:**
+- Si cancelas dentro de las **dos primeras semanas** del calendario académico, no necesitas aprobación de la facultad y **tienes derecho a un porcentaje de devolución**, previa revisión y autorización de las áreas financieras [Guía 2].
+- Si cancelas **después de esas dos semanas**, necesitas autorización del Director de Programa y del Decano, y **no hay devolución de porcentaje alguno** [Guía 2]. La solicitud debe ser escrita, dirigida al Decano, con formato de cancelación, paz y salvos y carné [Art. 51].
+
+**Condiciones:** el servicio requiere aprobaciones académicas (Director de Programa y Decano) y financieras (Apoyo Financiero y Cartera) [Guía 2]; no puedes tener más de una solicitud simultánea [Guía 2]. El porcentaje exacto de devolución no lo fija el reglamento: se rige por la resolución vigente de Rectoría [Art. 49]."
+A · agente único,¿Qué necesito para estar en la Lista de Honor y para ganar una Beca de Honor?,simple,True,,1.83,0.000333561,2,3729,0.0,50.0,1.0,1.0,0,0,1.0,4,4,0.9,"**Lista de Honor:** necesitas, al finalizar el período, un promedio igual o mayor a 4,0 dentro de tu promoción y una carga académica de al menos 15 créditos (o el total de créditos del semestre que cursas en tu programa) [Art. 89].
+
+**Beca de Honor:** se otorga entre quienes ya merecen la Lista de Honor, a los mejores promedios; consiste en la devolución de un porcentaje de los derechos de matrícula pagados el semestre anterior [Art. 90].
+
+Condiciones y excepciones:
+- No se consideran quienes tuvieron amonestación escrita, sanción disciplinaria vigente o perdieron una materia en ese semestre [Art. 91].
+- No hay Lista ni Beca de Honor en el período de verano [Art. 93].
+- Si cursas dos programas, la Lista corresponde al de mayor carga; si es igual, al programa inicial [Art. 89, Par. 1].
+- Las Listas las emite Admisiones y Registro en la octava semana del semestre siguiente [Art. 89, Par. 2].
+- El número de becarios y el porcentaje los fija Rectoría por resolución antes de terminar la sexta semana, con aprobación de la Junta Directiva [Art. 90].
+- Se compite en dos grupos por Facultad: 1.º a 4.º semestre, y 5.º al penúltimo [Art. 90, Par.]."
+A · agente único,"Falté a un parcial porque estaba enfermo, ¿puedo presentarlo después?",simple,True,,2.35,0.000997386,2,4969,0.0,25.0,1.0,1.0,0,0,1.0,4,5,0.938,"**Sí, puedes presentarlo como examen supletorio**, siempre que tu ausencia haya sido por una razón justificada y comprobada.
+
+Condiciones y plazos:
+- El supletorio aplica cuando no presentas un examen en la fecha programada por razones justificadas, ocurridas antes o durante el examen, **debidamente comprobadas y aceptadas por la Dirección del Programa** [Art. 64].
+- Debes solicitar el supletorio **dentro de los dos días hábiles siguientes** a la realización del examen, mediante **comunicación escrita dirigida al Director del Programa**, quien aprueba o rechaza la solicitud [Art. 64].
+- El supletorio tiene un **valor fijado por resolución de Rectoría**, que debes pagar en la tesorería de la Universidad; el recibo es requisito para presentar el examen [Art. 64].
+
+Ten en cuenta que la enfermedad debe estar soportada con documentos y ser aceptada por la Dirección del Programa; el reglamento no detalla qué documentos específicos se exigen. Si la solicitud se presenta fuera del plazo de dos días hábiles, el reglamento no contempla una excepción, por lo que la decisión queda sujeta a lo que resuelva la Dirección del Programa [Art. 64]."
+A · agente único,¿Qué requisitos debo cumplir para graduarme?,simple,True,,14.88,0.00076802,2,3725,0.0,50.0,1.0,0.5,0,0,1.0,4,4,0.9,"**Requisitos para graduarte** [Art. 84]:
+
+1. Cumplir todos los requisitos académicos exigidos por disposiciones legales y los del plan de estudios de tu programa.
+2. Estar a paz y salvo por todo concepto con la Universidad.
+3. Haber pagado los derechos de grado vigentes a la fecha de grado.
+
+**Requisitos académicos adicionales** (parágrafo del mismo artículo) [Art. 84]:
+- Realizar proyecto de grado, si tu programa lo exige.
+- Hacer el semestre de práctica, si hace parte del plan de estudios.
+- No tener vigente ninguna sanción disciplinaria del reglamento.
+- Cumplir las disposiciones legales.
+- Aprobar el Examen General de Derecho (solo para el título de Abogado).
+
+**Casos especiales:**
+- Si vienes de otra institución, debes cursar en Icesi el semestre de práctica y el proyecto de grado (si son requisitos) y un mínimo del 50% de los créditos del programa [Art. 30].
+- En doble titulación, se exige cursar y aprobar mínimo 30 créditos en Icesi, además de los requisitos del convenio [Art. 39].
+- El grado en ausencia solo procede a juicio de la Rectoría, con carta de delegación y entrega del diploma 5 días hábiles después [Art. 85].
+
+El reglamento no fija aquí montos ni fechas de grado; consulta esos detalles con la Secretaría General."
+A · agente único,¿Cuánto cuesta la matrícula de un semestre de pregrado?,simple,True,,4.57,0.000347133,2,3572,0.0,12.5,1.0,1.0,0,0,1.0,4,4,0.9,"**El reglamento no fija una cifra concreta.** El valor de la matrícula financiera de los programas de pregrado se establece **anualmente por la Rectoría mediante resolución**, previa autorización de la Junta Directiva [Art. 17]. Por eso debes consultar la resolución vigente del año en curso (o la liquidación de tu matrícula en el autoservicio Banner).
+
+Condiciones asociadas al valor:
+- Solo puedes matricular hasta el número de créditos que hayas pagado según la resolución de Rectoría sobre matrícula financiera [Art. 13].
+- En caso de simultaneidad de programas, pagas el valor del programa académico de mayor valor financiero, si los valores difieren [Art. 34].
+- El pago extemporáneo de la matrícula financiera genera recargos fijados por la Rectoría mediante resolución [Art. 18].
+- Si cancelas matrícula o materias en las dos primeras semanas del semestre, tienes derecho a la devolución de un porcentaje del valor, según lo establecido por la Rectoría mediante resolución [Art. 50].
+
+Para conocer el monto exacto, la instancia competente es la Rectoría (resolución anual) y, para tu caso particular, la oficina de Admisiones y Registro."
+B · multiagente,¿Hasta qué semana puedo cancelar una materia y en qué casos me devuelven dinero?,compleja,True,,44.75,0.00541907825,13,27507,12.2,51.7,0.667,1.0,2,1,0.75,3,4,0.688,"**Respuesta directa:** Puedes cancelar una materia sin trámite extemporáneo durante las semanas 1 y 2, con derecho a devolución de un porcentaje de la matrícula [Art. 50]. Desde la semana 3 hasta la semana 12 la cancelación es extemporánea y no genera reintegro [Art. 53].
+
+**Condiciones y excepciones:**
+- **Semanas 1–2:** cancelación directa ante Admisiones y Registro; devolución de un porcentaje según resolución de Rectoría [Art. 50].
+- **Semanas 3–12:** solicitud por sistema digital con aprobación/constancia del Director de Programa; sin reintegro y con pago de derechos [Art. 53]. Cancelar más de una materia requiere autorización previa del Director [Art. 53].
+- **Materias de más de 16 semanas:** el plazo llega hasta el último día hábil de la semana equivalente a la duración de la materia menos 4 semanas [Art. 53, Par. 1].
+- **Verano:** semana 1 sin costo y con devolución parcial [Art. 50, Par.]; de la semana 2 a la 5 requiere autorización del Director, es extemporánea y sin reintegro [Art. 53, Par. 2].
+- **Pérdida de prerrequisito en verano:** cancelación automática con derecho a devolución de lo pagado [Art. 62].
+- **Decisión institucional:** si la Universidad cancela materias o el semestre, la devolución se rige por la resolución vigente de Rectoría [Art. 49].
+- **Límite:** una materia solo puede cancelarse dos veces [Art. 54].
+
+El reglamento no fija porcentajes ni montos: remite a la resolución de Rectoría [Art. 49; Art. 50]."
+B · multiagente,¿Con qué promedio entro en prueba académica?,compleja,True,,9.96,0.0033333060000000003,10,19117,7.8,69.0,1.0,1.0,1,0,1.0,4,4,0.9,"**Respuesta directa:** Ingresas a prueba académica si tu promedio es **inferior a 3,3** al terminar el segundo semestre de permanencia, o **inferior a 3,4** en los semestres siguientes [Art. 67, literal a].
+
+**Condiciones y excepciones:**
+- La prueba rige **todo el semestre siguiente** [Art. 67].
+- Es una condición por rendimiento deficiente: debes organizar tu matrícula con el Director de Programa [Art. 66].
+- Puedes matricularte autónomamente hasta el **75% de los créditos**; para más, necesitas autorización del Director [Art. 13, Parágrafo].
+- Si eres readmitido en prueba académica, requieres visto bueno del Director para adicionar materias [Art. 55].
+- **Para salir:** debes alcanzar el promedio exigido (3,3 o 3,4 según corresponda) [Art. 67a]. Si no lo logras estando en prueba, quedas retirado [Art. 68, literal d]. También hay retiro si simultáneamente recibes sanción disciplinaria del Art. 97 [Art. 68, literal e].
+- El reglamento **no establece** un procedimiento o solicitud formal adicional para levantar la prueba; la única instancia mencionada es el Director de Programa [Art. 66].
+- La escala es 0,0–5,0, con aprobación desde 3,0 [Art. 70]."
+B · multiagente,"Quedé en prueba académica, ¿qué consecuencias tiene para mi siguiente semestre?",compleja,True,,13.31,0.004093446,14,35349,13.2,57.1,1.0,1.0,2,0,1.0,4,4,0.9,"**Respuesta directa:** Estar en prueba académica implica límites en tu matrícula, la obligación de organizarla con el Director de Programa y la exigencia de alcanzar un promedio mínimo; si no lo logras, quedas retirado de la Universidad.
+
+**Condiciones y pasos:**
+- **Límite de créditos:** puedes matricular autónomamente hasta el **75%** de los créditos del semestre; para un porcentaje mayor necesitas autorización del Director de programa [Art. 13, Parágrafo].
+- **Organización de matrícula:** debes organizarla **de acuerdo con el Director del Programa**, con el objetivo de alcanzar un nivel académico aceptable [Art. 66].
+- **Adiciones:** si eres readmitido en prueba académica, requieres visto bueno del Director del Programa para adicionar materias [Art. 55].
+- **Promedio exigido:** debes alcanzar el promedio del Art. 67 lit. a) —no inferior a **3,3** al cabo del segundo semestre de permanencia, y **3,4** en los semestres siguientes—; la prueba rige todo el semestre siguiente [Art. 67].
+- **Riesgo de retiro:** si estando en prueba académica no alcanzas ese promedio, quedas retirado de la Universidad [Art. 68, lit. d)]. También queda retirado quien ingresa en prueba académica y a la vez recibe la sanción disciplinaria del Art. 97 [Art. 68, lit. e)].
+- **No establecido:** el reglamento no fija un porcentaje mínimo de materias a aprobar distinto del cuadro de pérdidas del Art. 68 lit. a), ni un número máximo de semestres en prueba. Las notas tampoco registran una norma que establezca efectos de la prueba académica sobre becas o descuentos; solo se regula Becas de Honor por promedio [Art. 90]."
+B · multiagente,¿Cuántas faltas de asistencia puedo tener antes de perder una materia?,compleja,True,,14.76,0.004525724,13,27835,13.0,46.9,0.5,1.0,2,1,1.0,5,4,0.962,"No hay un número fijo de faltas: pierdes una materia si asistes a **menos del 80% de las horas** de la materia [Art. 70, Parágrafo 2º]. Eso equivale a superar el 20% de inasistencias sobre las horas totales. En ese caso se asigna ""No aprobado"", sin valor numérico [Art. 70, Parágrafo 2º].
+
+**Condiciones:**
+- La norma **solo aplica** si el profesor lleva el registro de asistencia **por escrito** y este es **conocido por los estudiantes** [Art. 70, Parágrafo 2º].
+- El reglamento **no fija un número absoluto de faltas** ni distingue entre justificadas e injustificadas [Art. 70, Parágrafo 2º].
+- **No regula un procedimiento ni instancia para justificar inasistencias** a clase [Art. 70, Parágrafo 2º].
+
+**No establecido:** el reglamento no permite responder cuántas faltas exactas equivalen al límite sin conocer las horas totales de cada materia [Art. 70, Parágrafo 2º]."
+B · multiagente,¿Qué promedio necesito para graduarme con honores?,compleja,True,,10.54,0.0049522030000000005,13,26454,12.3,67.6,1.0,1.0,2,0,1.0,4,4,0.9,"**Respuesta directa:** Para graduarte con honores en pregrado necesitas un promedio general de todas tus calificaciones de al menos 4,3 [Art. 83]. Los rangos son: **Cum laude** (≥4,3 y <4,5) [Art. 83], **Magna cum laude** (≥4,5 y <4,8) [Art. 83] y **Summa cum laude** (≥4,8) [Art. 83].
+
+**Condiciones de elegibilidad** [Art. 83]:
+- Haber cursado en la Universidad al menos el **75% de los créditos** del plan de estudios [Art. 83].
+- Haber cumplido lo establecido en los reglamentos [Art. 83].
+- **No haber sido sancionado disciplinariamente** [Art. 83].
+
+**Excepción:** en simultaneidad de programas, el promedio de cada programa se tiene en cuenta para grados con honores [Art. 33, lit. e].
+
+**No establecido:** el reglamento no fija un tiempo mínimo de estudios ni un número de créditos distinto al 75% [Art. 83]. Tampoco designa una autoridad específica que otorgue la distinción ni un procedimiento formal de postulación; no se declara automático [Art. 83]. No hay norma sobre cómo se refleja en el título, acta o registro, ni costo asociado."
+B · multiagente,"No estoy de acuerdo con la nota de un parcial, ¿cómo y en qué plazo reclamo?",compleja,True,,9.92,0.0028502889999999998,12,27582,14.6,59.0,1.0,1.0,1,0,1.0,4,4,0.9,"**Respuesta directa:** Debes presentar un reclamo escrito, de manera personal o al correo electrónico reportado por el profesor(a), ante el **profesor de la materia**, dentro de los **tres días hábiles** siguientes a la comunicación de la calificación [Art. 77, Parágrafo].
+
+**Condiciones y pasos que aplican:**
+
+- **Primera instancia:** el reclamo se dirige al profesor de la materia [Art. 77].
+- **Plazo:** tres días hábiles siguientes a la comunicación de la calificación [Art. 77].
+- **Forma:** por escrito, personal o al correo electrónico reportado por el profesor(a) [Art. 77, Parágrafo]. El reglamento no establece un formato específico ni un formulario distinto [Art. 77, Parágrafo].
+- **Si no quedas satisfecho:** presentas el reclamo ante el **Director de tu Programa**, quien lo gestiona ante el **Jefe del Departamento o Director de Escuela** [Art. 77].
+- **Si el Jefe de Departamento lo estima procedente:** designa **dos nuevos calificadores**, que evalúan en los **cinco días hábiles** siguientes con los mismos criterios del curso; la nota final del examen es el **promedio** de ambos [Art. 77].
+- **Plazo máximo de entrega de la nueva calificación:** **diez días hábiles** siguientes a la comunicación de la primera calificación [Art. 77].
+
+El reglamento no asigna función al Consejo de Facultad ni al Decano en este procedimiento, ni prevé la anulación de la nota fuera de este trámite [Art. 77]."
+B · multiagente,¿En qué casos me retiran de la universidad por rendimiento académico?,compleja,True,,14.1,0.0046289004,16,59115,11.8,63.9,1.0,1.0,2,0,1.0,4,4,0.9,"**Te retiran por rendimiento académico en estos casos [Art. 68]:** si cursas 1 materia y pierdes 1; si cursas 2 y pierdes 2; si cursas 3 o 4 y pierdes 2 o más; si cursas 5 o más y pierdes 3 o más [Art. 68a]. También si pierdes una materia en tercera repetición [Art. 68b]; si pierdes una materia en segunda repetición teniendo promedio semestral inferior a 3,4 [Art. 68c]; o si, estando en prueba académica, no alcanzas el promedio exigido [Art. 68d].
+
+**Condiciones:** la prueba académica se ingresa con promedio inferior a 3,3 al cabo del segundo semestre de permanencia, y de 3,4 en los semestres siguientes; rige todo el semestre siguiente [Art. 67a]. Reprobación es nota inferior a 3,0 [Art. 70].
+
+**Excepciones y aclaraciones:** el Art. 68 también incluye ingresar en prueba académica y ser sancionado disciplinariamente; esta es una causal de naturaleza disciplinaria, no de rendimiento en sentido estricto. El reglamento no fija un ""promedio acumulado mínimo"" general de permanencia distinto de los umbrales de prueba académica, ni menciona ""pérdida de cupo"" por rendimiento. Tampoco establece procedimiento, notificación, plazos ni apelación para el retiro por rendimiento; solo regula apelación para sanciones disciplinarias [Art. 107]. La readmisión tras retiro por bajo rendimiento procede máximo dos veces [Art. 12, Par. 3]."
+B · multiagente,"Me retiraron por bajo rendimiento académico, ¿puedo volver a la universidad y con qué condiciones?",compleja,True,,11.4,0.004256881,15,32925,14.2,60.7,0.0,1.0,2,1,0.8,3,4,0.718,"Sí, puedes volver mediante readmisión tras el retiro por bajo rendimiento, siempre que no hayan transcurrido más de cinco años de desvinculación académica [Art. 12].
+
+Condiciones y pasos:
+- Presenta solicitud escrita ante la oficina de Admisiones y Registro [Art. 12, Par. 2º].
+- La decisión la analiza el Comité de Admisiones; si es favorable, se comunica a Admisiones y Registro para continuar el proceso [Art. 9] [Art. 12, Par. 2º].
+- Límite: máximo dos readmisiones por retiro por bajo rendimiento [Art. 12, Par. 3º].
+- Matrícula: hasta el 75% de los créditos del semestre con mayor número de créditos del plan [Art. 12, Par. 3º, a-c]; se priorizan materias a repetir y pendientes [Art. 12, Par. 3º, a-c]; la matrícula se realiza con el Director del Programa [Art. 12, Par. 3º, a-c]; las excepciones al 75% las aprueba el Director [Art. 12, Par. 3º, a-c].
+- Ingresas al plan vigente y conservas tu historial con equivalencias [Art. 12, Par. 1º]. Si eres readmitido en otro programa, eliges conservar o no tu historial [Art. 12, Par. 4º].
+- Quedas en prueba académica por readmisión [Art. 67, b].
+
+El reglamento no fija plazos de fechas ni costos para la solicitud, ni un periodo de espera mínimo o promedio de ingreso exigido."
+B · multiagente,¿Puedo estudiar dos carreras al mismo tiempo en Icesi? ¿Qué requisitos hay y cuánto pago?,compleja,True,,15.03,0.00530142188,15,34650,10.3,48.9,1.0,0.667,2,0,1.0,2,4,0.775,"Sí, puedes estudiar dos carreras simultáneamente en Icesi, si cumples los requisitos y surtes el trámite.
+
+**Requisitos:** Si ingresas desde el inicio, necesitas puntaje en pruebas de estado igual o superior al mínimo que fije el Comité de Admisiones [Art. 32]. Si ya cursaste uno o más semestres, no debes tener sanción disciplinaria ni estar en prueba académica en el semestre en que tramitas la solicitud [Art. 32]. No se exige un promedio mínimo distinto: la condición relevante es no estar en prueba académica [Art. 67].
+
+**Trámite:** Solicitud por Banner al cierre del semestre anterior al inicio de la simultaneidad; deciden el Decano y el Director del programa, con respuesta por correo dentro de los 15 días hábiles tras finalizar el semestre [Art. 32].
+
+**Pago:** Pagas el valor del programa de mayor valor financiero si los programas tienen valores diferentes [Art. 34]. Créditos adicionales requieren autorización del Director del Programa inicial y se pagan según el Art. 13 [Art. 34][Art. 13]. Los derechos de grado se cancelan para cada programa [Art. 34].
+
+El reglamento no establece montos, descuentos ni tarifas diferenciales específicas para simultaneidad, ni norma sobre compatibilidad de horarios [Art. 13][Art. 41]."
+B · multiagente,"Quiero cancelar todo el semestre, ¿cómo lo hago y me devuelven la plata?",compleja,True,,8.16,0.010659205,12,50762,2.7,60.3,1.0,0.75,1,0,1.0,4,4,0.9,"**Respuesta directa:** Sí puedes cancelar todo el semestre, pero la devolución de dinero depende de la fecha. Si cancelas dentro de las **dos primeras semanas**, tienes derecho a un porcentaje de devolución; si lo haces después, no hay devolución.
+
+**Condiciones y pasos:**
+- **Dentro de las dos primeras semanas:** solicita por autoservicio Banner [Guía 1] o directamente ante Admisiones y Registro [Art. 50]. No requiere aprobación de la facultad y hay derecho a devolución de un porcentaje, previa revisión y autorización de las áreas financieras [Guía 2].
+- **Pasadas las dos semanas:** requiere autorización previa del Director de programa y del Decano [Guía 2]; no genera derecho a devolución de porcentaje alguno [Guía 2] ni reintegro de dinero [Art. 51].
+- **Aprobaciones:** académicas (Director y Decano) y financieras (Apoyo Financiero y Cartera) [Guía 2]. Solo una solicitud simultánea [Guía 2].
+- **Porcentaje exacto:** no está fijado en el reglamento; lo determina la resolución vigente de Rectoría [Art. 49] [Art. 50].
+- La cancelación implica inactivación en el programa [Guía 1]. El reglamento no establece la figura de ""semestre de gracia"" [Art. 51]."
+B · multiagente,¿Qué necesito para estar en la Lista de Honor y para ganar una Beca de Honor?,compleja,True,,16.05,0.00211951725,11,18493,30.0,83.3,1.0,1.0,2,0,1.0,3,4,0.837,"**Respuesta directa**
+
+Para la **Lista de Honor** necesitas: promedio dentro de tu promoción **≥ 4,0** al finalizar el período, y carga académica de **al menos 15 créditos** o el total de créditos del semestre que curses [Art. 89]. La distinción queda en tu hoja de vida y certificados de calificaciones [Art. 89].
+
+Para la **Beca de Honor**, debes estar entre los merecedores de la Lista de Honor y tener **los mejores promedios**; depende de esa distinción [Art. 90] [Art. 89]. El beneficio es la **devolución de un porcentaje de los derechos de matrícula pagados el semestre anterior** [Art. 90].
+
+**Condiciones y excepciones**
+
+- **No elegible** si tienes amonestación escrita o sanción disciplinaria vigente en el semestre, o si perdiste una materia [Art. 91].
+- **Doble programa:** integras la Lista de Honor de la Facultad/Programa con mayor carga; si es igual, la de tu programa inicial [Art. 89, Par. 1].
+- **Emisión:** Admisiones y Registro emite las listas en la **octava semana** del siguiente semestre y se publican en carteleras todo el período [Art. 89, Par. 2].
+- **Beca:** beneficiarios y porcentaje se fijan por **resolución de Rectoría antes de terminar la sexta semana**, con aprobación de la Junta Directiva [Art. 90]. La competencia se da por grupos: 1.º a 4.º semestre, y 5.º al penúltimo, **conformados según las materias pendientes** [Art. 90, Parágrafo].
+- **No aplica en verano** [Art. 93].
+- El reglamento **no exige** número mínimo de semestres para la Lista de Honor, ni establece duración o renovación automática de la Beca [Art. 90]."
+B · multiagente,"Falté a un parcial porque estaba enfermo, ¿puedo presentarlo después?",compleja,True,,10.41,0.004635074,11,32132,6.7,65.4,1.0,1.0,1,0,1.0,5,5,1.0,"Sí, puedes presentarlo mediante un **examen supletorio**, siempre que la ausencia se deba a razones justificadas, comprobadas y aceptadas por la Dirección del Programa [Art. 64, lit. c].
+
+Condiciones y pasos:
+- La solicitud debe presentarse por **comunicación escrita al Director del Programa** dentro de los **dos días hábiles siguientes** a la realización del examen [Art. 64, lit. c].
+- El Director del Programa **aprueba o imprueba** la solicitud; a su criterio notificará a la Jefatura del Departamento o Director de Escuela [Art. 64, lit. c].
+- Debes **pagar en tesorería** el valor fijado por resolución de Rectoría; el recibo es requisito para presentar el examen [Art. 64, lit. c].
+- **Excepción:** quien asiste a eventos avalados por el Director de Programa en representación de la Universidad no paga dicho valor [Art. 64, Parágrafo 3º].
+- Si no hay justificación válida, la evaluación se califica con **cero (0,0)** [Art. 70, Parágrafo 4º].
+
+El reglamento **no detalla** qué documentos médicos específicos se exigen; solo pide razones ""debidamente comprobadas"" [Art. 64, lit. c]."
+B · multiagente,¿Qué requisitos debo cumplir para graduarme?,compleja,True,,20.24,0.00425792388,15,44896,12.5,58.7,1.0,1.0,2,1,1.0,3,3,0.8,"Para graduarte debes cumplir los requisitos académicos y administrativos del reglamento. En lo académico: cumplir las disposiciones legales aplicables y el plan de estudios, estar a paz y salvo por todo concepto con la Universidad y haber pagado los derechos de grado vigentes [Art. 84]. Además, realizar proyecto de grado si el programa lo exige, hacer semestre de práctica si está en el plan de estudios, no tener sanciones disciplinarias vigentes y aprobar el Examen General de Derecho solo si eres de Abogados [Art. 84, Parágrafo]. Si vienes de otra institución, debes cursar en Icesi el semestre de práctica y el proyecto de grado (si son requisitos) y mínimo el 50% de los créditos [Art. 30]. En doble titulación, aprobar mínimo 30 créditos en Icesi [Art. 39]; en simultaneidad, completar el 100% de exigencias obligatorias y electivas de cada programa [Art. 33]. En lo administrativo, entrega en Secretaría General, únicamente en la fecha que ella señale: copia de cédula de ciudadanía o de extranjería, paz y salvo académico de Admisiones y Registro, certificados de paz y salvo, certificado de requisitos legales y recibo de pago de derechos de grado [Art. 86], junto con el paz y salvo por todo concepto con la Universidad [Art. 84, Art. 86]. El reglamento no fija promedio mínimo general para graduarse; solo la nota ≥3,0 para aprobar materias [Art. 70], ni establece requisito de idioma extranjero para el grado [Art. 64]."
+B · multiagente,¿Cuánto cuesta la matrícula de un semestre de pregrado?,compleja,True,,7.58,0.003068807,11,23273,8.0,47.5,1.0,1.0,1,0,1.0,5,4,0.962,"El reglamento no fija una cifra concreta del valor de la matrícula de pregrado. El monto se establece anualmente por la Rectoría mediante resolución, previa autorización de la Junta Directiva [Art. 17].
+
+Condiciones y excepciones:
+- El estudiante puede matricular hasta el número de créditos que haya pagado según la resolución de Rectoría sobre matrícula financiera [Art. 13].
+- En simultaneidad, se paga el valor del programa académico de mayor valor financiero, si difieren [Art. 34].
+- La extemporaneidad en el pago genera recargos fijados por Rectoría [Art. 18].
+- La cancelación dentro de las dos primeras semanas da derecho a devolución de un porcentaje del valor, según resolución de Rectoría [Art. 50].
+- El reglamento no establece cifras, valores por crédito ni categorías socioeconómicas; esos valores se fijan por resolución de Rectoría [Art. 13][Art. 18].
+
+Para conocer el monto exacto debe consultarse la resolución anual de Rectoría [Art. 17]."
+C · router,¿Hasta qué semana puedo cancelar una materia y en qué casos me devuelven dinero?,,False,"1 validation error for Evaluacion
+  Invalid JSON: EOF while parsing a string at line 1 column 1734 [type=json_invalid, input_value='{""aprobado"":false,""punta...bust critique. Cite all', input_type=str]",14.47,0.0013488535999999999,11,18521,9.8,0.0,,0.0,,0,0.0,1,1,0.0,
+C · router,¿Con qué promedio entro en prueba académica?,simple,True,,3.39,0.000355162,3,3320,44.9,0.0,1.0,1.0,0,0,1.0,4,4,0.9,"**Ingresas a prueba académica por resultados si tu promedio es inferior a 3,3 al cabo de tu segundo semestre de permanencia, o inferior a 3,4 en los semestres siguientes** [Art. 67].
+
+Condiciones:
+- La prueba queda vigente durante todo el semestre siguiente [Art. 67].
+- Durante ese período debes organizar tu matrícula con el Director del Programa para alcanzar un nivel académico aceptable [Art. 66].
+- También se ingresa por **prueba académica por readmisión**, cuando eres readmitido tras haber sido retirado por bajo rendimiento o por haber quedado en prueba académica en el último período en que estuviste en la Universidad [Art. 67].
+- Si estando en prueba académica no alcanzas el promedio exigido, quedas retirado de la Universidad [Art. 68, literal d]."
+C · router,"Quedé en prueba académica, ¿qué consecuencias tiene para mi siguiente semestre?",compleja,True,,9.08,0.004686646,13,32813,6.9,58.9,1.0,1.0,1,0,1.0,4,4,0.9,"**Respuesta directa:** Si quedas en prueba académica, esta rige todo el semestre siguiente [Art. 67a] y debes organizar tu matrícula con el Director de tu programa para alcanzar un nivel académico aceptable [Art. 66]. Solo puedes matricularte autónomamente hasta el 75% de los créditos del semestre; para un porcentaje mayor necesitas autorización del Director [Art. 13, Parágrafo]. Además, no puedes solicitar simultaneidad de programas [Art. 32] y, si adicionas materias, requieres visto bueno del Director [Art. 55].
+
+**Condiciones y excepciones:** Los readmitidos pueden matricular hasta el 75% de los créditos del semestre con más créditos del plan, priorizando materias a repetir y pendientes, también con el Director [Art. 12, Parágrafo 3º]. Si no alcanzas el promedio exigido, quedas retirado [Art. 68d]; también hay exclusión por sanción disciplinaria del Art. 97 [Art. 68e] o por incumplir plazos de cancelación de obligaciones financieras [Art. 68f].
+
+**No está en las notas:** el reglamento no fija un número mínimo de créditos, un listado de cursos prohibidos, tutorías o acompañamiento específicos para prueba académica; solo se mencionan tutorías/monitorías como formas de evaluación [Art. 45]."
+C · router,¿Cuántas faltas de asistencia puedo tener antes de perder una materia?,simple,True,,4.44,0.000822735,3,4445,5.8,12.5,0.25,1.0,0,0,1.0,5,4,0.962,"**Pierdes la materia si asistes a menos del 80% de las horas de la materia** [Art. 70, Parágrafo 2º].
+
+Es decir, el límite es el 20% de las horas totales. Por ejemplo, en una materia de 64 horas, el máximo de inasistencias sería 12,8 horas [Art. 70, Parágrafo 2º].
+
+Condiciones:
+- La calificación será ""No aprobado"", sin valor numérico [Art. 70, Parágrafo 2º].
+- Solo aplica si el profesor lleva registro de asistencia **por escrito** y ese registro es **conocido por los estudiantes** [Art. 70, Parágrafo 2º].
+- El reglamento no fija un número de faltas ni distingue entre faltas justificadas e injustificadas; el criterio es el porcentaje de horas asistidas [Art. 70, Parágrafo 2º].
+
+Si necesitas precisar el cálculo para tu materia, revisa el número de horas registrado en el programa del curso."
+C · router,¿Qué promedio necesito para graduarme con honores?,simple,True,,2.27,0.000333702,3,4447,16.2,25.0,0.875,1.0,0,0,1.0,4,5,0.938,"**Depende del nivel de honor que busques** [Art. 83]:
+
+- **Cum laude:** promedio igual o superior a 4,3 e inferior a 4,5 [Art. 83].
+- **Magna cum laude:** promedio igual o superior a 4,5 e inferior a 4,8 [Art. 83].
+- **Summa cum laude:** promedio igual o mayor a 4,8 [Art. 83].
+
+**Condiciones para ser candidato** [Art. 83]:
+- Haber cursado en la Universidad al menos el 75% de los créditos de tu plan de estudios.
+- Haber cumplido lo establecido en los reglamentos.
+- No haber sido sancionado disciplinariamente.
+
+Si cursas dos programas simultáneamente, el promedio de cada programa se tiene en cuenta para efectos de grados con honores [Art. 33, literal e].
+
+Nota: esto es distinto de las Listas de Honor, que solo requieren promedio de 4,0 o más y al menos 15 créditos [Art. 89]."
+C · router,"No estoy de acuerdo con la nota de un parcial, ¿cómo y en qué plazo reclamo?",simple,True,,3.05,0.000366222,3,4563,15.0,12.5,1.0,1.0,0,0,1.0,4,4,0.9,"**Respuesta:** El reclamo se presenta primero al profesor de la materia, por escrito y de manera personal o al correo electrónico que él haya reportado [Art. 77]. El plazo es dentro de los **tres días hábiles** siguientes a la comunicación de la calificación [Art. 77].
+
+**Si no quedas satisfecho:** debes presentarlo ante el Director de tu Programa, quien lo gestiona ante el Jefe del Departamento o Director de Escuela [Art. 77]. Si el Jefe del Departamento lo considera procedente, designa **dos nuevos calificadores**, que evalúan en los **cinco días hábiles** siguientes con los mismos criterios usados con los demás exámenes del curso; la nota final del examen será el **promedio** de ambas calificaciones [Art. 77]. La calificación debe entregarse dentro de los **diez días hábiles** siguientes a la comunicación de la primera calificación [Art. 77].
+
+**Nota:** el reglamento no fija un plazo distinto para reclamar la nota de un parcial frente a otras evaluaciones; aplica la regla general del Art. 77. Tampoco establece costo alguno por este trámite."
+C · router,¿En qué casos me retiran de la universidad por rendimiento académico?,simple,True,,3.21,0.000453602,3,4562,18.1,25.0,0.0,1.0,0,0,1.0,4,4,0.9,"**Te retiran de la Universidad por rendimiento académico en estos casos [Art. 68]:**
+
+- Si pierdes un número de materias igual o superior al del cuadro: cursas 1 y pierdes 1; cursas 2 y pierdes 2; cursas 3 o 4 y pierdes 2 o más; cursas 5 o más y pierdes 3 o más [Art. 68, lit. a].
+- Si pierdes una materia en tercera repetición [Art. 68, lit. b].
+- Si, teniendo promedio total del semestre inferior a 3,4, pierdes una materia en segunda repetición [Art. 68, lit. c].
+- Si estando en prueba académica no alcanzas el promedio exigido en el Art. 67, lit. a [Art. 68, lit. d].
+- Si ingresas en prueba académica y simultáneamente te haces acreedor a una sanción disciplinaria de las del Art. 97 [Art. 68, lit. e].
+- Si incumples los plazos para cancelar tus obligaciones financieras [Art. 68, lit. f].
+
+**Contexto:** entras en prueba académica por resultados si tu promedio es inferior a 3,3 al cabo del segundo semestre de permanencia, y de 3,4 en los semestres siguientes; dura todo el semestre siguiente [Art. 67, lit. a]. La prueba implica organizar tu matrícula con el Director del Programa [Art. 66].
+
+Si fuiste retirado por bajo rendimiento, puedes ser readmitido máximo dos veces [Art. 12, Par. 3]."
+C · router,"Me retiraron por bajo rendimiento académico, ¿puedo volver a la universidad y con qué condiciones?",compleja,True,,22.53,0.00342934214,16,36124,19.0,61.1,0.667,1.0,2,1,1.0,4,4,0.9,"Sí, puedes volver tras un retiro por bajo rendimiento académico, si cumples las condiciones de reingreso.
+
+**Condiciones:**
+- La desvinculación académica no puede superar **cinco años** [Art. 12].
+- Debes presentar **solicitud escrita** ante la **oficina de Admisiones y Registro**, sometiéndote a los procedimientos de los Arts. 7, 8 y 9 [Art. 12, Par. 2º].
+- La solicitud la analiza el **Comité de Admisiones**, que decide cada caso [Art. 9].
+- Máximo **dos readmisiones** por esta causal [Art. 12, Par. 3º].
+- Ingresas al **plan de estudios vigente** al momento de solicitar [Art. 12, Par. 1º].
+- Matrícula de hasta el **75% de los créditos** del semestre de mayor carga del plan, priorizando materias a repetir y pendientes; matrícula con el **Director del Programa**, quien aprueba excepciones [Art. 12, Par. 3º, a–c].
+- Entras en **prueba académica por readmisión** [Art. 67, b]; debes alcanzar el promedio exigido (3,3 en segundo semestre; 3,4 en los siguientes) [Art. 67, lit. a]; si no lo alcanzas, hay retiro [Art. 68, d].
+
+El reglamento no fija período de espera ni plazos internos de respuesta del Comité. Si la readmisión es en otro programa, los requisitos específicos no están detallados [Art. 12, Par. 4º]."
+C · router,¿Puedo estudiar dos carreras al mismo tiempo en Icesi? ¿Qué requisitos hay y cuánto pago?,compleja,True,,12.19,0.003089576,14,27022,19.9,45.2,1.0,0.667,2,0,0.25,2,4,0.325,"Sí, puedes cursar dos carreras simultáneamente en Icesi, pero debes cumplir requisitos y surtir un trámite [Art. 31] [Art. 32].
+
+**Requisitos:** si ingresas desde el inicio, necesitas un puntaje en pruebas de estado igual o superior al mínimo que fije el Comité de Admisiones [Art. 32]. Si ya cursaste semestres, puedes solicitar el segundo programa siempre que no tengas sanción disciplinaria ni estés en prueba académica en el semestre en que tramitas la solicitud [Art. 32].
+
+**Trámite:** solicitud por Banner al cierre del semestre anterior al inicio de la simultaneidad; deciden el Decano y el Director del programa; respuesta por correo dentro de los 15 días hábiles tras finalizar el semestre [Art. 32].
+
+**Académico:** la prematrícula muestra las materias habilitadas por prerrequisitos en cada programa; adiciones/cancelaciones las autorizan los Directores; el promedio acumulado se calcula por programa y las materias comunes cuentan en ambos; se exige 100% de exigencias obligatorias y electivas en cada programa; práctica según el programa que más exija; proyecto de grado por programa salvo proyecto conjunto aprobado [Art. 33].
+
+**Pago:** el reglamento no fija un valor, tarifa ni descuento específico para la simultaneidad [Art. 32]. Las reglas generales de pago, devoluciones y derechos de grado no determinan cuánto cuesta cursar dos carreras [Art. 14] [Art. 18] [Guía 2] [Art. 51] [Art. 86]."
+C · router,"Quiero cancelar todo el semestre, ¿cómo lo hago y me devuelven la plata?",compleja,True,,10.33,0.00294926364,12,22393,11.2,58.1,1.0,0.75,1,0,1.0,4,4,0.9,"**Cómo cancelar todo el semestre y cuándo devuelven dinero**
+
+La cancelación total se solicita por autoservicio Banner; el trámite abarca todos los créditos matriculados y finaliza con tu cancelación e inactivación en el programa o programas matriculados [Guía 1]. Se realiza ante Admisiones y Registro [Art. 50]. Como efecto, dejas de ser estudiante de pregrado [Art. 19, lit. c].
+
+Condiciones y devoluciones:
+- **Dentro de las dos primeras semanas** del calendario académico: no requiere aprobación de la facultad y da derecho a un porcentaje de devolución del valor pagado, previa revisión y autorización de las áreas financieras [Guía 2].
+- **Pasadas las dos semanas**: requiere autorización previa del Director de programa y del Decano, y **no** genera devolución de porcentaje alguno [Guía 2]; tampoco da lugar a devolución de dinero [Art. 51].
+- Se requieren aprobaciones académicas y financieras (Apoyo Financiero y Cartera) [Guía 2].
+- No se admite más de una solicitud simultánea de cancelación [Guía 2].
+- Si la **Universidad** cancela el semestre por causas razonables, la devolución se rige por la resolución vigente de Rectoría [Art. 49].
+- En **cursos de verano**, si pierdes el prerrequisito de una materia matriculada, tienes derecho a la devolución del dinero pagado por ese concepto [Art. 62].
+
+El reglamento no fija el porcentaje, montos ni formulario específico [Art. 49][Guía 2]."
+C · router,¿Qué necesito para estar en la Lista de Honor y para ganar una Beca de Honor?,simple,True,,2.63,0.000753462,3,4119,16.2,50.0,1.0,1.0,0,0,0.75,3,4,0.688,"**Lista de Honor:** necesitas, al finalizar el período académico, un promedio igual o mayor a 4,0 dentro de tu promoción y una carga académica de al menos 15 créditos (o el total de créditos del semestre que curses en tu programa) [Art. 89]. Quedan excluidos quienes tengan amonestación escrita o sanción disciplinaria vigente en ese semestre, o hayan perdido una materia [Art. 91]. Si cursas dos programas, integras la lista de la Facultad de mayor carga; si es igual, la de tu programa inicial [Art. 89, Par. 1]. Admisiones y Registro emite las listas en la octava semana del semestre siguiente [Art. 89, Par. 2].
+
+**Beca de Honor:** se otorga entre los merecedores de la distinción anterior, a los mejores promedios; consiste en la devolución de un porcentaje de los derechos de matrícula pagados el semestre anterior [Art. 90]. El número de beneficiados y el porcentaje los fija Rectoría por resolución antes de terminar la sexta semana de cada semestre, con aprobación de la Junta Directiva [Art. 90]. Se compite en dos grupos por Facultad: 1.º a 4.º semestre, y 5.º al penúltimo [Art. 90, Par.].
+
+No hay Listas ni Becas de Honor en el período de verano [Art. 93]."
+C · router,"Falté a un parcial porque estaba enfermo, ¿puedo presentarlo después?",simple,True,,9.85,0.00038250025,3,5298,12.7,0.0,1.0,1.0,0,0,1.0,5,5,1.0,"Sí, puedes presentarlo como **examen supletorio**, siempre que la ausencia esté justificada y sea aceptada.
+
+**Condiciones:**
+- Aplica cuando no presentas en la fecha programada un examen ""por razones justificadas, sucedidas con anterioridad o durante la presentación del mismo, debidamente comprobadas y aceptadas por la Dirección del Programa"" [Art. 64].
+- Debes hacer la solicitud **dentro de los dos días hábiles siguientes** a la realización del examen, mediante comunicación escrita dirigida al Director del Programa, quien aprueba o improeba la solicitud [Art. 64].
+- El supletorio tiene un valor fijado por resolución de Rectoría, que debes pagar en la tesorería de la Universidad; el recibo es requisito para presentar el examen [Art. 64].
+- El Director del Programa podrá notificar a la Jefatura del Departamento o Director de Escuela [Art. 64].
+
+**Nota:** el reglamento no detalla qué documentos específicos sirven como justificación (por ejemplo, certificado médico); solo exige que las razones sean comprobadas y aceptadas por la Dirección del Programa [Art. 64]. Para ese detalle, consulta directamente con la Dirección de tu Programa."
+C · router,¿Qué requisitos debo cumplir para graduarme?,simple,True,,3.91,0.000356741,3,4056,12.4,50.0,1.0,0.5,0,0,1.0,5,4,0.962,"**Requisitos para graduarte en Icesi**
+
+Debes: (1) cumplir todos los requisitos académicos exigidos por disposiciones legales y los del plan de estudios de tu programa; (2) estar a paz y salvo por todo concepto con la Universidad; y (3) haber pagado los derechos de grado vigentes a la fecha de grado [Art. 84].
+
+Además, son requisitos académicos para cualquier programa [Art. 84, parágrafo]:
+- Realizar proyecto de grado, si tu programa lo exige.
+- Hacer el semestre de práctica, si está en tu plan de estudios.
+- No tener vigente ninguna sanción disciplinaria del reglamento.
+- Cumplir las disposiciones legales.
+- Aprobar el Examen General de Derecho (solo para el título de Abogado).
+
+**Casos particulares:**
+- Si vienes de otra institución (traslado, transferencia o simultaneidad), debes cursar en Icesi el semestre de práctica y el proyecto de grado —si son requisitos— y un mínimo del 50% de los créditos del programa [Art. 30].
+- En doble titulación con convenio bilateral, debes cursar y aprobar mínimo 30 créditos en Icesi, presentar certificado oficial de notas y certificación del título o constancia de grado, y cumplir lo pactado en el convenio [Art. 39].
+
+El reglamento no fija aquí el monto de los derechos de grado; consulta los valores vigentes ante la Secretaría General."
+C · router,¿Cuánto cuesta la matrícula de un semestre de pregrado?,simple,True,,3.31,0.001029387,3,4179,5.4,25.0,1.0,0.0,0,0,1.0,5,4,0.962,"**El reglamento no fija el costo de la matrícula de pregrado.** No existe en el Libro de Derechos, Deberes y Normas ni en la guía de cancelación una cifra, tarifa o tabla de valores de matrícula.
+
+Lo que el reglamento sí establece es que ese valor se determina **por resolución de la Rectoría**, no en el reglamento mismo:
+
+- El número de créditos que puedes matricular depende de lo que hayas pagado ""según resolución de Rectoría sobre matrícula financiera"" [Art. 13].
+- El pago extemporáneo genera recargos ""fijados por la Rectoría mediante resolución"" [Art. 18].
+- Si solo te falta el proyecto de grado, hay un período sin pago de matrícula financiera; vencido este, el valor lo establece resolución de Rectoría [Art. 14].
+- En simultaneidad de programas, pagas el valor del programa de mayor valor financiero [Art. 34].
+- Las devoluciones por cancelación son un porcentaje del valor pagado, también fijado por resolución de Rectoría [Art. 50].
+
+**Para conocer el valor exacto** debes consultar la resolución de Rectoría vigente sobre matrícula financiera, o dirigirte a la **Tesorería** (pagos) o a **Admisiones y Registro** (matrícula académica), oficinas que el reglamento menciona [Art. 14]."
+D · multiagente optimizado,¿Hasta qué semana puedo cancelar una materia y en qué casos me devuelven dinero?,compleja,True,,11.87,0.001801481,8,13000,16.3,31.2,0.667,1.0,1,1,0.75,3,4,0.688,"**Respuesta directa:** Puedes cancelar una materia sin trámite especial solo durante las semanas 1 y 2 del semestre; en ese caso tienes derecho a la devolución de un porcentaje del valor de matrícula, según la resolución de Rectoría [Art. 50]. Desde la semana 3 hasta el final de la semana 12 la cancelación es extemporánea: se hace por sistema digital con aprobación del Director de Programa, **no hay reintegro de dinero** y debes pagar derechos fijados por resolución [Art. 53].
+
+**Condiciones y excepciones:**
+- Cancelar más de una materia entre las semanas 3 y 12 exige autorización previa del Director [Art. 53].
+- Materias de duración mayor a 16 semanas [Art. 53, Par. 1]: hasta el último día hábil de la semana equivalente a (duración − 4).
+- Verano: semana 1 sin costo y con devolución parcial [Art. 50, Par.]; de la semana 2 a la 5 requiere autorización del Director y no hay reintegro [Art. 53, Par. 2].
+- La cancelación de matrícula posterior a la segunda semana no da lugar a devolución [Art. 51] (regla distinta de la cancelación de materia de las semanas 1–2).
+- Sí hay devolución cuando se cancelan automáticamente materias de verano por pérdida del prerrequisito o por retiro tras el cierre [Art. 62]; si la Universidad cancela materias o el semestre, el porcentaje se rige por la resolución vigente de Rectoría [Art. 49].
+- Límite: máximo dos cancelaciones por materia [Art. 54]. No se puede cancelar materia con fraude [Art. 53, Par. 3]; en primer semestre debes hablar con el Director [Art. 53, Par. 4].
+
+Los porcentajes exactos de devolución no están en el reglamento: los fija la Rectoría por resolución [Art. 50]."
+D · multiagente optimizado,¿Con qué promedio entro en prueba académica?,compleja,True,,5.85,0.000524351,5,5341,21.4,25.0,1.0,1.0,1,0,1.0,4,4,0.9,"**Respuesta directa:** Entras en prueba académica si tu promedio es **inferior a 3,3** al cabo del **segundo semestre** de permanencia, o **inferior a 3,4** en los semestres siguientes [Art. 67a].
+
+**Condiciones y excepciones:**
+- La prueba académica implica organizar la matrícula con el Director del Programa para alcanzar un nivel aceptable [Art. 66].
+- La condición rige durante todo el semestre siguiente [Art. 67a].
+- También se entra por readmisión: al ser readmitido tras retiro por bajo rendimiento o tras quedar en prueba académica en el último período [Art. 67b].
+- Consecuencia: no alcanzar el promedio exigido en el literal a) genera retiro [Art. 68d].
+
+Las notas no especifican otros promedios ni condiciones adicionales."
+D · multiagente optimizado,"Quedé en prueba académica, ¿qué consecuencias tiene para mi siguiente semestre?",compleja,True,,6.76,0.001646485,9,16909,9.9,60.9,1.0,1.0,1,0,1.0,4,4,0.9,"**Respuesta directa:** Si quedaste en prueba académica, esta rige durante todo el semestre siguiente [Art. 67a]. Debes organizar tu matrícula con el Director del Programa para alcanzar un nivel académico aceptable [Art. 66]. Puedes matricular autónomamente hasta el 75% de los créditos del semestre; si quieres más, necesitas autorización del Director [Art. 13, Parágrafo]. Si fuiste readmitido en prueba académica, requieres visto bueno del Director para adicionar materias [Art. 55].
+
+**Condiciones y excepciones:**
+- Para superar la prueba debes obtener un promedio no inferior a 3,3 (segundo semestre de permanencia) ni a 3,4 (semestres siguientes) [Art. 67a].
+- Si no alcanzas ese promedio, quedas retirado de la Universidad [Art. 68d].
+- También hay retiro si simultáneamente recibes sanción disciplinaria del Art. 97 [Art. 68e].
+- El reglamento no establece un seguimiento académico específico distinto de la organización de matrícula con el Director [Art. 66], ni fija un plazo o trámite distinto de ""salida""; la única condición es el promedio [Art. 67a]."
+D · multiagente optimizado,¿Cuántas faltas de asistencia puedo tener antes de perder una materia?,compleja,True,,9.51,0.004029035,10,28313,6.8,36.7,0.5,1.0,1,1,1.0,4,4,0.9,"Puedes faltar hasta el **20%** de las horas de la materia [Art. 70, Parágrafo 2]. Si asistes a **menos del 80%**, la materia se pierde con calificación ""No aprobado"", sin valor numérico [Art. 70, Parágrafo 2].
+
+Condiciones y excepciones:
+- Esto solo aplica si el profesor **lleva registro escrito de asistencia y es conocido por los estudiantes** [Art. 70, Parágrafo 2].
+- El reglamento **no fija un número exacto de faltas**: depende de las horas de cada materia [Art. 70, Parágrafo 2].
+- El reglamento **no establece excepciones ni justificaciones de inasistencia** en esta norma [Art. 70, Parágrafo 2]. Solo existe el examen supletorio por razones justificadas, que se solicita en 2 días hábiles al Director de Programa [Art. 64c]."
+D · multiagente optimizado,¿Qué promedio necesito para graduarme con honores?,compleja,True,,6.28,0.0017119672,8,13095,8.5,52.4,1.0,1.0,1,0,1.0,3,4,0.837,"Para graduarte con honores necesitas un promedio mínimo de **4,3**, según el grado que corresponda: **Cum laude** (≥ 4,3 y < 4,5), **Magna cum laude** (≥ 4,5 y < 4,8) o **Summa cum laude** (≥ 4,8) [Art. 83].
+
+Además, debes cumplir estas condiciones: haber cursado en la Universidad al menos el **75%** de los créditos del plan de estudios, cumplir los reglamentos y **no haber sido sancionado disciplinariamente** [Art. 83]. En caso de simultaneidad, se tiene en cuenta el promedio de cada programa para honores [Art. 33, lit. e].
+
+El reglamento no exige otro promedio ni trámite adicional distinto de los citados. Tampoco menciona ""mención"" ni ""título honorífico"" adicionales, ni efectos posteriores (ceremonia, diploma especial) distintos del grado con honores [Art. 83]. La distinción se registra en el grado; no se halló norma sobre constancia específica en certificados para honores, a diferencia de Listas de Honor [Art. 89]."
+D · multiagente optimizado,"No estoy de acuerdo con la nota de un parcial, ¿cómo y en qué plazo reclamo?",compleja,True,,5.34,0.001166544,7,10726,20.3,37.5,1.0,1.0,1,0,1.0,4,5,0.938,"**Respuesta directa:** El reclamo se presenta primero al **profesor de la materia**; si no quedas satisfecho, ante el **Director de tu Programa**, quien lo gestiona ante el **Jefe del Departamento o Director de Escuela** [Art. 77]. Debe hacerse por **escrito**, personalmente o al **correo electrónico reportado por el profesor(a)** [Art. 77, Parágrafo].
+
+**Plazo:** dentro de los **tres días hábiles** siguientes a la comunicación de la calificación [Art. 77]. El conteo corre desde esa comunicación [Art. 77].
+
+**Trámite posterior:** si el Jefe de Departamento lo estima procedente, designa **dos nuevos calificadores**, que evalúan en los **cinco días hábiles** siguientes con los mismos criterios; la nota final es el **promedio** de ambas [Art. 77]. La nueva calificación se entrega dentro de los **diez días hábiles** siguientes a la comunicación de la primera calificación [Art. 77].
+
+**Condiciones adicionales:** el reglamento no exige otros documentos ni tasas [Art. 77]. Sobre presentarlo de forma extemporánea, el reglamento **no establece consecuencia expresa**; solo fija el plazo [Art. 77]."
+D · multiagente optimizado,¿En qué casos me retiran de la universidad por rendimiento académico?,compleja,True,,8.2,0.002650778,10,26138,11.2,50.0,0.8,1.0,1,1,1.0,4,4,0.9,"**Respuesta directa:** Te retiran por rendimiento académico si: pierdes materias según cuántas cursas (cursas 1 y pierdes 1; cursas 2 y pierdes 2; cursas 3–4 y pierdes 2 o más; cursas 5 o más y pierdes 3 o más) [Art. 68a]; pierdes una materia en tercera repetición [Art. 68b]; con promedio del semestre inferior a 3,4, pierdes una materia en segunda repetición [Art. 68c]; o, estando en prueba académica, no alcanzas el promedio exigido [Art. 68d].
+
+**Condiciones:** La prueba académica aplica con promedio inferior a 3,3 al cabo del segundo semestre, e inferior a 3,4 en los siguientes, y rige todo el semestre siguiente [Art. 67a]. Reprobación es nota inferior a 3,0 [Art. 70].
+
+**Reingreso:** Solicitud escrita a Admisiones y Registro [Art. 12, Par. 2], máximo 5 años de desvinculación [Art. 12, Par. 2]; decide el Comité de admisiones [Art. 12, Par. 2]; máximo dos readmisiones [Art. 12, Par. 3]; matrícula hasta 75% de créditos con el Director de Programa [Art. 12, Par. 3].
+
+**Apelación:** El reglamento solo la regula para sanciones disciplinarias (5 días hábiles; resuelve Rector) [Art. 107]; no establece apelación para el retiro por rendimiento."
+D · multiagente optimizado,"Me retiraron por bajo rendimiento académico, ¿puedo volver a la universidad y con qué condiciones?",compleja,True,,11.46,0.0029764838799999998,11,27396,8.7,41.4,0.0,1.0,1,1,1.0,3,4,0.837,"Sí, puedes solicitar la readmisión tras el retiro por bajo rendimiento académico, si cumples las condiciones y el procedimiento.
+
+**Condiciones y pasos:**
+- No haber estado desvinculado académicamente más de cinco años [Art. 12].
+- Presentar comunicación escrita ante la oficina de Admisiones y Registro [Art. 12, Par. 2].
+- La decisión la toma el Comité de Admisiones de la Universidad [Art. 9]; si es favorable, se comunica a Admisiones y Registro [Art. 12, Par. 2].
+- Límite: máximo dos readmisiones por esta causal [Art. 12, Par. 3].
+- Según el [Art. 12, Par. 3], la matrícula puede ser de hasta el 75% de los créditos del semestre con más créditos del plan, priorizando materias a repetir y pendientes; la matrícula la hace el Director del Programa, quien aprueba excepciones [Art. 12, Par. 3].
+- Ingresas al plan de estudios vigente, conservas tu historial y se aplican equivalencias [Art. 12, Par. 1; Art. 23].
+- Quedas en prueba académica por readmisión [Art. 67, b].
+
+El reglamento no detalla documentos ni costos específicos de readmisión; remite a los procedimientos de los Artículos 7, 8 y 9 [Art. 12]."
+D · multiagente optimizado,¿Puedo estudiar dos carreras al mismo tiempo en Icesi? ¿Qué requisitos hay y cuánto pago?,compleja,True,,6.7,0.002763998,10,23733,7.9,38.7,1.0,1.0,1,0,1.0,3,4,0.837,"Sí, puedes cursar dos carreras simultáneamente en Icesi (doble programa) [Art. 31].
+
+**Requisitos:** si ingresas desde el inicio, debes obtener en las pruebas de estado un puntaje igual o superior al mínimo que fije el Comité de Admisiones [Art. 32]. Si ya cursaste semestres, no debes tener sanción disciplinaria ni estar en prueba académica en el semestre en que tramitas la solicitud [Art. 32]. El procedimiento es: solicitar vía Banner al cierre del semestre anterior; deciden el Decano y el Director, y responden por correo dentro de los 15 días hábiles siguientes al fin del semestre [Art. 32, Parágrafo].
+
+**Pago:** pagas la matrícula del programa de mayor valor [Art. 34]. Los créditos adicionales requieren autorización del Director del programa inicial y se pagan según el Art. 13 [Art. 34]. Debes cancelar derechos de grado por cada título [Art. 34; Art. 86].
+
+No se establece un promedio mínimo específico ni costos concretos: aplican el Art. 34 y las resoluciones de Rectoría. El reglamento no prevé descuentos ni exenciones por doble programa [Art. 34; Art. 86]."
+D · multiagente optimizado,"Quiero cancelar todo el semestre, ¿cómo lo hago y me devuelven la plata?",compleja,True,,11.47,0.00080876492,8,11298,29.8,43.8,1.0,0.75,1,1,1.0,4,4,0.9,"Para cancelar todo el semestre debes solicitarlo por el autoservicio Banner; el servicio cubre todos los créditos matriculados y finaliza con la cancelación e inactivación en el programa [Guía 1]. La devolución de dinero depende del momento en que lo hagas.
+
+**Condiciones y pasos:**
+- **Dentro de las dos primeras semanas** del calendario académico: no requiere aprobación de la facultad y da derecho a un porcentaje de devolución del valor pagado [Guía 2]; la solicitud se realiza directamente ante Admisiones y Registro [Art. 50] [Guía 2]. La devolución requiere revisión y autorización de las áreas financieras (Apoyo Financiero y Cartera) [Guía 2].
+- **Pasadas las dos semanas**: se presenta solicitud escrita al Decano con formato, paz y salvos y carné [Art. 51]; requiere autorización del Director de programa y del Decano [Guía 2], y **no da lugar a devolución de dinero** [Art. 51] [Guía 2].
+- Solo se permite una solicitud simultánea de cancelación de semestre [Guía 2].
+- El porcentaje de devolución se rige por la resolución vigente de Rectoría [Art. 49] [Art. 50]; el reglamento no fija el porcentaje ni el monto exacto, por lo que este dato no consta en las notas [Art. 50]."
+D · multiagente optimizado,¿Qué necesito para estar en la Lista de Honor y para ganar una Beca de Honor?,compleja,True,,5.99,0.002277169,7,9467,8.4,75.0,1.0,1.0,1,0,1.0,4,4,0.9,"**Respuesta directa:** Para estar en la Lista de Honor necesitas un promedio ≥ 4,0 dentro de tu promoción al finalizar el período, con una carga de al menos 15 créditos o el total del semestre [Art. 89]. Para ganar la Beca de Honor debes primero integrar la Lista de Honor y estar entre los mejores promedios [Art. 90].
+
+**Condiciones y excepciones:**
+- Doble programa: la Lista de Honor se otorga por la Facultad con mayor carga; si es igual, por la del programa inicial [Art. 89, Par. 1].
+- Admisiones y Registro emite las listas en la octava semana del semestre siguiente y se publican todo el período [Art. 89, Par. 2].
+- La Beca consiste en la devolución de un porcentaje de los derechos de matrícula pagados el semestre anterior [Art. 90].
+- El número de beneficiados y el porcentaje los fija resolución de Rectoría antes de terminar la sexta semana de cada semestre, con aprobación de la Junta Directiva [Art. 90].
+- Se compite en dos grupos por Facultad: 1.º a 4.º semestre, y 5.º al penúltimo; la ubicación depende de materias pendientes [Art. 90, Parágrafo].
+- Quedan excluidos quienes tengan amonestación escrita o sanción disciplinaria vigente en el semestre, o hayan perdido una materia [Art. 91].
+- No hay Lista de Honor ni Becas de Honor en verano [Art. 93]."
+D · multiagente optimizado,"Falté a un parcial porque estaba enfermo, ¿puedo presentarlo después?",compleja,True,,9.2,0.001495215,9,18783,21.2,58.8,0.333,1.0,1,1,1.0,4,4,0.9,"Sí. Si faltaste por enfermedad, puedes presentar un **examen supletorio**, siempre que la razón sea justificada, comprobada y aceptada por la Dirección del Programa [Art. 64, lit. c].
+
+Condiciones y pasos:
+- Solicita mediante comunicación escrita al Director del Programa dentro de los **dos días hábiles** siguientes a la realización del examen [Art. 64, lit. c].
+- La Dirección del Programa aprueba o improba y puede notificar a la Jefatura del Departamento o Director de Escuela [Art. 64, lit. c].
+- Debes pagar el valor fijado por resolución de Rectoría en tesorería y presentar el recibo [Art. 64, lit. c].
+- El reglamento no detalla documentos médicos específicos; la comprobación la califica la Dirección del Programa [Art. 64, lit. c].
+
+Si no tienes justificación válida, la obligación no presentada se califica con cero (0,0) [Art. 70, Par. 4], y una calificación inferior a 3,0 indica reprobación de la actividad o materia [Art. 70]. Asistir a menos del 80% de las horas da ""No aprobado"" sin valor numérico, solo si el profesor registra asistencia por escrito y es conocido por los estudiantes [Art. 70, Par. 2]."
+D · multiagente optimizado,¿Qué requisitos debo cumplir para graduarme?,compleja,True,,10.71,0.0040899024,9,22384,7.0,42.5,1.0,1.0,1,1,1.0,4,4,0.9,"Para graduarte debes cumplir los requisitos académicos y administrativos del reglamento. En lo académico: cumplir todos los requisitos legales y los del plan de estudios de tu programa [Art. 84]; realizar el proyecto de grado si tu programa lo exige [Art. 84]; hacer el semestre de práctica si está en el plan de estudios [Art. 84]; aprobar las materias con nota ≥3,0, pues <3,0 reprueba [Art. 70]; no tener sanciones disciplinarias vigentes [Art. 84]; y, solo para Abogado, aprobar el Examen General de Derecho [Art. 84]. Además, estar a paz y salvo con la Universidad y haber pagado los derechos de grado vigentes [Art. 84].
+
+En lo administrativo, debes entregar en la Secretaría General, solo en la fecha que esa oficina señale: copia de cédula, paz y salvo académico de Admisiones y Registro, certificados de paz y salvo, certificado de requisitos legales y recibo de pago de derechos de grado, cuyo valor fija una resolución de Rectoría [Art. 86].
+
+El reglamento no fija un número total de créditos ni un promedio mínimo general de graduación: remite al plan de estudios de cada programa [Art. 84]. Tampoco fija plazos para solicitar grado ni costos."
+D · multiagente optimizado,¿Cuánto cuesta la matrícula de un semestre de pregrado?,compleja,True,,5.17,0.0004930620000000001,5,4926,17.5,12.5,1.0,1.0,1,0,1.0,5,4,0.962,"El reglamento no fija una cifra concreta para la matrícula de pregrado. El valor de las matrículas financieras de pregrado lo establece **anualmente la Rectoría mediante resolución**, previa autorización de la Junta Directiva [Art. 17].
+
+Condiciones y pasos aplicables:
+- El pago se efectúa en la **Tesorería**, y la matrícula académica se asienta en **Admisiones y Registro** o en el canal electrónico habilitado [Art. 14].
+- Si el pago es extemporáneo, se generan **recargos** fijados por Rectoría [Art. 18].
+- En caso de simultaneidad, se paga el programa de mayor valor [Art. 34].
+- Las devoluciones por cancelación dependen de una resolución de Rectoría [Art. 50].
+
+Para conocer el monto exacto de un semestre, habría que consultar la resolución anual de Rectoría, que no está incluida en las notas."

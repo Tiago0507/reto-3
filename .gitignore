@@ -11,7 +11,6 @@ wheels/
 
 # Secretos y resultados locales
 .env
-resultados/
 .langgraph_api/
 .pytest_cache/
 .ruff_cache/
