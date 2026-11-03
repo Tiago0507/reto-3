@@ -1,0 +1,52 @@
+[project]
+name = "asistente-icesi"
+version = "0.1.0"
+description = "Asistente multiagente (LangGraph) que responde dudas sobre el reglamento estudiantil de pregrado de la Universidad Icesi, citando el artículo."
+readme = "README.md"
+authors = [
+    { name = "Tiago0507", email = "svalenciagarcia707@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "langchain-core>=1.7.4",
+    "langchain-openai>=1.7.3",
+    "langgraph>=1.2.19",
+    "pydantic>=2.14.2",
+    "pypdf>=6.21.4",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+asistente-icesi = "asistente_icesi:main"
+asistente-icesi-evaluar = "asistente_icesi.evaluacion:main"
+asistente-icesi-preparar = "asistente_icesi.preparar:main"
+
+[build-system]
+requires = ["uv_build>=0.12.13,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "pytest-asyncio>=1.4.1.post1",
+    "ruff>=0.17.3",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
+ignore = ["RUF001", "RUF002", "RUF003"]  # tildes y símbolos del español en textos
+
+[tool.ruff.lint.per-file-ignores]
+"src/asistente_icesi/corpus.py" = ["SIM905"]
+"src/asistente_icesi/prompts.py" = ["E501"]           # textos de instrucciones
+"src/asistente_icesi/evaluacion.py" = ["E501"]        # dataset

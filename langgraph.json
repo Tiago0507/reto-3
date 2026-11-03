@@ -1,0 +1,9 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": ["."],
+  "graphs": {
+    "asistente_icesi": "./src/asistente_icesi/grafo.py:grafo"
+  },
+  "env": ".env",
+  "python_version": "3.13"
+}
